@@ -5,3 +5,5 @@
 /lib
 /pyvenv.cfg
 /lib64
+/microservices/bike-app/node_modules
+/microservices/bike-app/src/coverage/*
